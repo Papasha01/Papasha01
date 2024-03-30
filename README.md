@@ -16,3 +16,5 @@
 📫 **Вы также можете найти меня здесь:**
  - Моя страница [Github](https://github.com/Papasha01)
  - Telegram - [@Papasha01](https://t.me/Papasha01)
+
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65c55a23323fd6becf1cc56a?variant=dark&roadmaps=python%2Candroid%2Cbackend" alt="roadmap.sh"/></a>
