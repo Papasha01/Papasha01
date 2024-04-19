@@ -14,5 +14,5 @@
 
 
 📫 **Вы также можете найти меня здесь:**
- - Моя страница [Github](https://github.com/Papasha01)
  - Telegram - [@Papasha01](https://t.me/Papasha01)
+ - VK - https://vk.com/pavelevykin
