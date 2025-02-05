@@ -13,5 +13,5 @@
  - [Quix](https://github.com/Papasha01/Quix/) - приложение на для отслеживания мероприятий.
 
 📫 **Вы также можете найти меня здесь:**
- - Telegram - [@Papasha01](https://t.me/Levykinx)
+ - Telegram - [@Levykinx](https://t.me/Levykinx)
  - VK - https://vk.com/pavelevykin
